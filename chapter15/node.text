@@ -1,0 +1,5 @@
+Todo:multithreaded chat client
+1.A sends "blablabla" to server, server broadcast "blablabla" to all clients, A as well
+2.IP and TCP port, with IP you can find the PC, with port no you can find the app. can pick one from 1024-65535
+3.Read: Socket()->InputSreamReader()->BufferedReader(), 010->characters->buffered characters
+4.Write: Socket()->PrintWriter().print(), characters->01010
