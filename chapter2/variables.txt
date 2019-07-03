@@ -1,0 +1,8 @@
+1. Primitive&reference;
+2. Bytes, short, int, long, float, double, char(2), boolean(JVM)(8 primitives); 
+3. Reference variable: final() static for oop
+
+
+what is object reference? An variable refer the object() like a point.
+
+S:too basic, skipped

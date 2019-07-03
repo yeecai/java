@@ -1,0 +1,6 @@
+1. a class = variable + method
+2. methods can behave differently depend on the value of variables. if else
+3. A method use parameters, a caller passes arguments.
+4. Java is pass-by-value, pass-by-copy.
+5. == compare variable, as for reference, == return if two refer to a same object!
+
